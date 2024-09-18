@@ -1,7 +1,7 @@
 {
-  "name": "react-draggable-list",
-  "version": "4.2.1",
-  "description": "Make a list of draggable collapsible items.",
+  "name": "react-draggable-plus",
+  "version": "4.2.2",
+  "description": "Enhanced version of react-draggable-list with additional features support react 18",
   "main": "dist/src/index.js",
   "sideEffects": false,
   "scripts": {
@@ -78,6 +78,6 @@
     "react-multi-ref": "^1.0.0"
   },
   "peerDependencies": {
-    "react": "^16.6.0 || ^17.0.0"
+    "react": "^16.6.0 || ^17.0.0 || ^18.0.0"
   }
 }
