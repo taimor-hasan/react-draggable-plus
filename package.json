@@ -74,10 +74,11 @@
     "@types/prop-types": "^15.7.3",
     "immutability-helper": "^3.0.0",
     "prop-types": "^15.6.0",
-    "react-motion": "^0.5.2",
+    "react-motion": "git+https://github.com/taimor-hasan/react-motion-plus.git",
     "react-multi-ref": "^1.0.0"
   },
   "peerDependencies": {
     "react": "^16.6.0 || ^17.0.0 || ^18.0.0"
   }
+  
 }
